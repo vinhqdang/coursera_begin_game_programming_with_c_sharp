@@ -1,0 +1,1 @@
+C:\Users\score\workspace\coursera_begin_game_programming_with_c_sharp\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3Content\obj\x86\Debug\ProgrammingAssignment3Content.contentprojResolveAssemblyReference.cache
